@@ -23,3 +23,4 @@ step | torch | myradam
 18 | 0.007214 | 0.006612
 19 | 0.006774 | 0.008394
 ```
+<img width="536" height="470" alt="vs_torch_radam" src="https://github.com/user-attachments/assets/186b747f-467b-4461-a332-3d9e41c23a4a" />
